@@ -1,3 +1,9 @@
+# IOTA - 랜덤 시드
+
+아이오타 시드 생성기입니다.
+
+파이썬을 이용하여 빠르고 안전하게 시드를 생성할 수 있습니다.
+
 # IOTA-randomseed
 
 This is simple IOTA seed generator. 
@@ -14,5 +20,7 @@ However, this practice is not recommended for creating secure keys that hold lar
 
 Use at your own risk. (Just use IDLE)
 
-Donation IOTA Address : TZQFZKVUDCPJHL9EGAVMYIMXAURS9GRCAD9YUCOVUNXWJMXESRRVVXBFBRVUUXSOFSJS9HODSWIFSFFOECTWAGSCBO
+#Donation IOTA Address
+
+TZQFZKVUDCPJHL9EGAVMYIMXAURS9GRCAD9YUCOVUNXWJMXESRRVVXBFBRVUUXSOFSJS9HODSWIFSFFOECTWAGSCBO
 
